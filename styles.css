@@ -205,7 +205,7 @@ body {
 	color: var(--dark-blue);
 }
 
-@media (min-width: 620px) {
+@media (min-width: 1281px) {
 	.wrapper {
 		background-image: url("./images/pattern-background-desktop.svg");
 	}
